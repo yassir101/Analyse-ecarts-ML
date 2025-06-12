@@ -12,7 +12,7 @@ Objectif : détecter des transactions frauduleuses à partir d’un jeu de donn�
    - SVM (avec ACP)
    - XGBoost
 4. **Évaluation** : matrice de confusion, rapport de classification, AUC ROC.
-5. 
+
 ## Résultats
 
 - **Random Forest** et **XGBoost** offrent les meilleures performances.
